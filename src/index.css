@@ -10,3 +10,11 @@ body {
 .title{
 text-align: center;
 }
+h2{
+  text-align: center;
+  color:red;
+  font-size:50px;
+  background-color: cadetblue;
+  width:30%;
+  margin:auto
+}
